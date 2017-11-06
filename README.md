@@ -32,7 +32,7 @@
 * CL: `eatable`, reason: 
 
 #### Nolan's
-* CL: `eatable -`, reason: suprisingly and destructively terrible
+* CL: `uneatable +`, reason: suprisingly and destructively terrible
 ***
 ### R-House (capitalism dinning room)
 
