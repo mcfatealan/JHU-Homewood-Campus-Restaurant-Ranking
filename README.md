@@ -15,9 +15,9 @@
 
 ## Ranking list
 
+***
 ### St. Paul Street
 
-***
 #### Tamper's
 
 #### Honeygrow
@@ -27,4 +27,14 @@
 #### Ajuma
 
 #### Nolan's
+
+***
+### South
+
+
+***
+
+### Inner Habor
+
+
 ***
