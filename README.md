@@ -33,9 +33,8 @@
 #### Nolan's
 * CL: `eatable -`, reason: suprisingly and destructively terrible
 ***
-### South
+### R-House (capitalism dinning room)
 
-#### R-House (capitalism dinning room)
 ***
 
 ### Inner Habor
