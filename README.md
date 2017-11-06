@@ -34,7 +34,7 @@
 #### Nolan's
 * CL: `uneatable +`, reason: suprisingly and destructively terrible
 ***
-### R-House (capitalism dinning room)
+### R-House (the Grand Dinning Room of Capitalism)
 
 ***
 
