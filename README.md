@@ -12,6 +12,7 @@
 * good
 * eatable
 * uneatable
+* disaster
 
 ## Ranking list
 
